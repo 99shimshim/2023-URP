@@ -24,7 +24,7 @@
 6. 결론
 
 ## 분석 결과
-<img width="835" alt="분석결과" src="https://github.com/dayeon430/2023-2-PSAT-team-timeseries/assets/136339661/1253c348-0fab-4f30-b639-665ad12c3205">
+<img width="835" alt="분석결과" src="https://github.com/99shimshim/2023-URP/assets/140596861/c6c64af5-d67c-48e5-88e8-f662bffd1df9">
 
 ## 기대효과
 - 중소기업
